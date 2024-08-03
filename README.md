@@ -1,8 +1,8 @@
 <h1>Aplicação climática</h1>
-
+![Imagem principal da aplicação](https://github.com/williamsemmler/clima/blob/main/imagem/01.png)
 
 Criação de aplicação web simples e responsiva para exercício de técnicas com uso de APIs.
-Neste exercício usei API de Open Weather Map.
+Neste exercício usei API de Open Weather Map para capturar dados das cidades que vinham do input do usuário.
 
 # Tecnologias usadas
 
