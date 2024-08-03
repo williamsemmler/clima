@@ -1,0 +1,66 @@
+body {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    .box-info {
+        background-color: #5c54ed;
+        border-radius: 25px;
+        box-shadow: 2px 2px 15px -5px black;
+        color: rgb(255, 255, 255);
+    }
+}
+
+.tempestade {
+    background: linear-gradient(to bottom, rgb(15, 15, 19), rgb(48, 48, 49));
+}
+.chuva {
+    background: linear-gradient(to bottom, rgb(53, 53, 61), rgb(106, 106, 107));
+}
+.ceuLimpo {
+    background: linear-gradient(to bottom, rgb(19, 53, 104), rgb(27, 104, 177));
+
+}
+.nuvens {
+    background: linear-gradient(to bottom, rgb(76, 106, 151), rgb(76, 96, 114));
+}
+
+
+
+.hide {
+    display: none;
+}
+h3 {
+    padding: 10px;
+}
+h2 #bandeiraPais {
+    width: 2rem;
+}
+.descricao-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: .6rem;
+    img {
+    width: 2rem;
+    }
+    p {
+        margin: 0;
+        text-transform: capitalize;
+        font-weight: bold;
+    }
+}
+.detalhes-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    #umidade {
+        border-right: 1px solid white;
+        padding-right: 1.2rem;
+    }
+}
+#temperatura span {
+    font-size: 70px;
+}
