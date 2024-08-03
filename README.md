@@ -1,5 +1,5 @@
 <h1>Aplicação climática</h1>
-![Imagem principal da aplicação](https://github.com/williamsemmler/clima/blob/main/imagem/01.png)
+<img src="[URL_da_Imagem](https://github.com/williamsemmler/clima/blob/main/imagem/01.png)" alt="Imagem principal da aplicação">
 
 Criação de aplicação web simples e responsiva para exercício de técnicas com uso de APIs.
 Neste exercício usei API de Open Weather Map para capturar dados das cidades que vinham do input do usuário.
